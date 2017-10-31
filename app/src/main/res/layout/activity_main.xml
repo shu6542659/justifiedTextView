@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <com.shunnar.justifiedtextview.JustifiedText
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="我有五个字:"
+        android:textColor="#ff0000"
+        android:padding="10dp"
+        />
+
+    <com.shunnar.justifiedtextview.JustifiedText
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="姓名:"
+        android:textColor="#ff0000"
+        android:padding="10dp"
+        />
+
+    <com.shunnar.justifiedtextview.JustifiedText
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="按计划蛋糕绍点:"
+        android:textColor="#ff0000"
+        android:padding="10dp"
+        />
+
+</LinearLayout>
